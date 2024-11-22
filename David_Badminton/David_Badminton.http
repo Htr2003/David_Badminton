@@ -1,0 +1,6 @@
+@David_Badminton_HostAddress = http://localhost:5082
+
+//GET {{David_Badminton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
